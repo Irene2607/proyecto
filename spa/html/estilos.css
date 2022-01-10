@@ -98,7 +98,15 @@
     font-family: "Homer Simpson UI";
     font-weight: 900;
 }
-
+.ceser{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: "Homer Simpson UI";
+    font-weight: 700;
+    font-size: 19px;
+    color: brown;
+}
 /* .info{
     display: flex;
     justify-content: center;
